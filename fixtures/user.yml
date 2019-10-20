@@ -1,0 +1,7 @@
+entity: User
+items:
+  user1:
+    id: 1
+    name: 'Test1'
+    email: 'test@test.com'
+    passwordHash: '$2b$10$DBd8jPPBHS0efqQTB/DJDeE.2q3bqNFwfF1PL992ee3z7tmxckAd6'
